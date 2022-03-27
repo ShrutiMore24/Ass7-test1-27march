@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+.heading {
+    background-color: gray;
+    color: white;
+    height: 80px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.video {
+    border: 2px solid black;
+    text-align: center;
+}
